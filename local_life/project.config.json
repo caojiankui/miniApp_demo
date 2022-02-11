@@ -1,0 +1,20 @@
+{
+    "setting": {
+        "urlCheck": false,
+        "es6": true,
+        "newFeature": false,
+        "postcss": false,
+        "mockUpdate": false,
+        "minified": false,
+        "autoPush": false,
+        "scripts": false,
+        "mockLogin": false
+    },
+    "appid": "tt07e3715e98c9aac0",
+    "projectname": "local_life",
+    "condition": {
+        "miniprogram": {
+            "current": -1
+        }
+    }
+}
